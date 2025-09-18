@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- Active Directory Home Lab(https://github.com/joshmadakor1/Algorithms-Practice)
+- Active Directory Home Lab(https://github.com/MrBenjyGit/ActiveDirectoryHomeLab/tree/main)
 - CERTIFICATION
   - (https://drive.google.com/file/d/1Kb6co10a57ttBbgQr0cURp1VER0QxdMp/view?usp=sharing)) 
 
