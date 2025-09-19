@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! 
+z<h1>Hi, I'm Benjamin! 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -15,7 +15,7 @@
 (https://www.linkedin.com/in/benjamin-ackon-361a23256]
 
 personal branding
-https://bnjmnackon.wixsite.com/jebidel-fam
+https://docs.google.com/document/d/1mkxJrc2oXPw1RoXZlmeo4eqI3JTINaVexTzDEyot6rQ/edit?usp=sharing
 
 
 
