@@ -14,7 +14,7 @@ z<h1>Hi, I'm Benjamin!
 
 (https://www.linkedin.com/in/benjamin-ackon-361a23256]
 
-personal branding
+PERSONAL BRANDING
 https://docs.google.com/document/d/1mkxJrc2oXPw1RoXZlmeo4eqI3JTINaVexTzDEyot6rQ/edit?usp=sharing
 
 
