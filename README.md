@@ -14,8 +14,8 @@
 
 (https://www.linkedin.com/in/benjamin-ackon-361a23256]
 
-personal branding
-https://bnjmnackon.wixsite.com/jebidel-fam
+PERSONAL BRANDING 
+https://docs.google.com/document/d/1mkxJrc2oXPw1RoXZlmeo4eqI3JTINaVexTzDEyot6rQ/edit?usp=sharing
 
 
 
