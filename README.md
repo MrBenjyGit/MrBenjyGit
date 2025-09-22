@@ -4,7 +4,10 @@ z<h1>Hi, I'm Benjamin!
 
 - Active Directory Home Lab(https://github.com/MrBenjyGit/ActiveDirectoryHomeLab/tree/main)
 - CERTIFICATION
-  - (https://drive.google.com/file/d/1Kb6co10a57ttBbgQr0cURp1VER0QxdMp/view?usp=sharing)) 
+  - (https://drive.google.com/file/d/1Kb6co10a57ttBbgQr0cURp1VER0QxdMp/view?usp=sharing))
+  - https://docs.google.com/document/d/1azVjBwAMZ7k3NHk-Lv25HaoSb4f4H9aihUnTGO4J_tU/edit?usp=sharing
+  - https://docs.google.com/document/d/1azVjBwAMZ7k3NHk-Lv25HaoSb4f4H9aihUnTGO4J_tU/edit?usp=sharing
+  - https://docs.google.com/document/d/1azVjBwAMZ7k3NHk-Lv25HaoSb4f4H9aihUnTGO4J_tU/edit?usp=sharing 
 
 <h2>📺 Popular YouTube Videos</h2>
 
