@@ -17,6 +17,10 @@ z<h1>Hi, I'm Benjamin!
 PERSONAL BRANDING
 https://docs.google.com/document/d/1mkxJrc2oXPw1RoXZlmeo4eqI3JTINaVexTzDEyot6rQ/edit?usp=sharing
 
+ELEVATED PITCH VIDEO
+https://www.canva.com/design/DAGzs70MGqE/XQ_5hp5U8POn9J6nYJAuIg/edit?utm_content=DAGzs70MGqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 
 
 
